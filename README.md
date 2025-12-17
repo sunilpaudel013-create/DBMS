@@ -1,1 +1,1 @@
-These files contains the complete concept of dbms using the sql.
+These repository contains the complete concept of dbms using the sql.
